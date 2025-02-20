@@ -16,7 +16,7 @@
 - 😄 **Pronouns:** She/Her
 - 🎓 Currently enrolled to get my **Masters of Science in Business Analytics at Wake Forest University**.
 - 💻 Strong skills in: **Python, SQL, Tableau, GitHub, and Machine Learning Frameworks**
-- ⚡ **Fun fact:** I’m an ex-volleyball athlete!
+- ⚡ **Fun fact:** I speak 3 languages (Serbian, English and Italian)!
 
 ---
 
