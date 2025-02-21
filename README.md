@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 **Let’s Connect & Collaborate!**
-Feel free to **star ⭐** any project you like, or reach out if you're interested in collaborating on data-driven solutions!
+Feel free to **⭐** any project you like, or reach out if you're interested in collaborating on data-driven solutions!
 
 ---
 
