@@ -4,7 +4,7 @@
 
 ## **About Me**
 - **Pronouns:** She/Her
-- Currently enrolled to get a **Masters of Science in Business Analytics at Wake Forest University**.
+- **Masters of Science in Business Analytics Grad at Wake Forest University**.
 - Strong skills in: **Python, SQL, Excel, Tableau, Power BI, Crystal Ball Simulation, and Machine Learning Frameworks**
 - **Fun fact:** I speak 3 languages (Serbian, English and Italian)!
 
